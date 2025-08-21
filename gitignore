@@ -1,0 +1,12 @@
+# Exclude zip files
+*.zip
+
+# Exclude temporary files
+*.tmp
+
+# Exclude backup files
+*.bak
+
+# Exclude Python cache files and folders
+__pycache__/
+*.pyc
